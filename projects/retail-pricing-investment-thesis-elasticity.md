@@ -1,69 +1,29 @@
 # Retail Pricing - Elasticity-Led Investment Thesis
 
-> **Experience alignment:** McKinsey & Company, Associate, Investor Due Diligence, 2014-2018.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public Investment and Portfolio Strategy resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) is used only to place this case within the McKinsey experience beginning in 2014.
 
-> **Evidence hierarchy:** Contemporaneous external pricing and causal-analysis sources are the primary grounding for the analytical design, counterfactual logic, risk framing, and trade-offs. The [public role-targeted resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) is secondary evidence used only for the work-experience dates and candidate-specific outcome claims. The external sources do not independently verify the candidate's participation.
+## Evidence-grounded premise
 
-## Portfolio lens
+McKinsey's 2015 retail-pricing research describes elasticity, price perception, item segmentation, guardrails, and test-and-learn. The World Bank's impact-evaluation handbook supplies counterfactual and causal methods, while Tashman supports rolling out-of-sample forecast evaluation. These sources support an investment thesis that separates observed pricing power from temporary or model-dependent effects.
 
-Investor due diligence, pricing elasticity, causal inference, forecast validation, downside analysis, and revenue underwriting.
+## Case approach
 
-## Executive snapshot
+- Segment products by demand, price perception, competition, economics, and category role.
+- Estimate elasticity with causal comparison where feasible, then hindcast across multiple historical periods.
+- Model base and downside cases for volume response, competitive reaction, execution, and forecast error.
+- Distinguish measured evidence, assumptions, sensitivities, and unresolved risks in the recommendation.
 
-Converted a retailer's pricing question into an investor-grade value thesis. The public resume reports an elasticity-based analysis using regression and difference-in-differences that identified a $50M revenue opportunity and reduced the analytical cycle from six weeks to less than one week; the broader diligence work used hindcasting to reach approximately 95% forecast accuracy on key operating assumptions.
+## Evidence-based success measures
 
-## Resume-ready impact
-
-- Designed an elasticity-based pricing analysis using regression and difference-in-differences.
-- Identified a $50M revenue opportunity while reducing the analytical cycle from six weeks to less than one week.
-- Used hindcasting and downside cases to test whether projected operating improvements were credible enough for an investment decision.
-
-## Interview story
-
-### Situation
-
-Retail pricing was becoming more data-intensive as omnichannel transparency weakened traditional rules of thumb. Contemporaneous McKinsey research emphasized elasticity, granular customer and channel data, price sensitivity, and explicit risk assessment as foundations for modern retail pricing.
-
-### Task
-
-Estimate the causal revenue opportunity, distinguish sustainable pricing power from subsidized or temporary volume, and convert the result into a downside-aware investment thesis.
-
-### Actions
-
-- Segmented products and customers around price perception, channel behavior, and observable demand response.
-- Estimated price elasticity with regression, then used difference-in-differences to compare changes in treated and comparison groups while testing the required parallel-trends logic.
-- Hindcast the model over prior periods and challenged key assumptions against observed outcomes before using them in the investment case.
-- Built base and downside cases around volume response, competitive reaction, execution pace, and forecast error.
-- Translated the analysis into a concise decision narrative separating measured evidence, assumptions, sensitivities, and unresolved risks.
-
-### Results
-
-- Identified a $50M revenue opportunity.
-- Reduced the analytical cycle from six weeks to less than one week.
-- Achieved approximately 95% hindcasting accuracy on key operating assumptions across the broader diligence work.
-- Produced a decision-ready thesis with explicit downside conditions rather than a single-point forecast.
-
-## Decisions and trade-offs
-
-- Prefer causal evidence over a simple before-and-after sales comparison.
-- Treat elasticity as segment- and channel-specific rather than one portfolio-wide constant.
-- Preserve a downside case even when the base model indicates significant upside.
-
-## Leadership signal
-
-Connected econometric analysis to investor judgment by making assumptions, counterfactuals, sensitivities, and downside triggers visible.
-
-## Skills and keywords
-
-investment research · commercial due diligence · pricing elasticity · difference-in-differences · regression · hindcasting · downside analysis · revenue underwriting · scenario analysis · investment thesis
+Use causal validity, out-of-sample error, guardrail breaches, sensitivity range, merchant overrides, and realized margin/volume response. These are proposed measures, not historical results.
 
 ## External source map
 
-| Evidence used | External source | Publication timing |
-|---|---|---|
-| Elasticity estimation as a way to project unit volume, revenue, and profit impact | [McKinsey - Pricing fashion with science](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/pricing-fashion-with-science) | November 2014 |
-| Price-sensitivity simulations, switching behavior, granular segments, and pricing-risk management | [McKinsey - The pricing renaissance](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-pricing-renaissance-new-ways-to-reduce-risk-and-unlock-value) | April 2015 |
-| Difference-in-differences logic and the parallel-paths assumption | [World Bank - Assumptions behind the difference-in-difference estimator](https://blogs.worldbank.org/en/impactevaluations/often-unspoken-assumptions-behind-difference-difference-estimator-practice) | November 2013 |
-| Secondary alignment only: candidate role, 2014-2018 timeline, regression and difference-in-differences approach, $50M opportunity, cycle time, and hindcasting accuracy | [Public Investment & Portfolio Strategy resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) | Current public artifact describing 2014-2018 experience |
-
-All methodological sources predate or fall within the 2014-2018 work-experience window.
+| Source | Contribution |
+|---|---|
+| [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) | Primary retail-pricing market and method evidence. |
+| [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | Primary causal and counterfactual methodology. |
+| [Tashman - Out-of-sample tests of forecasting accuracy (2000)](https://www.sciencedirect.com/science/article/pii/S0169207000000650) | Primary rolling historical-validation methodology. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) | Work dates only. |

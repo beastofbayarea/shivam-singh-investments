@@ -1,60 +1,28 @@
-# Nice Tuan Series D — Investment Diligence & Valuation
+# Nice Tuan Series D - Investment Diligence and Valuation
 
-> **Portfolio lens:** Growth investment diligence, valuation scenarios, downside analysis, syndicate alignment, and post-investment monitoring.
+> **Document type:** Externally grounded interview case reconstruction, not a claim of an independently verified completed engagement.
+>
+> **Timeline alignment:** The [public Investment and Portfolio Strategy resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) is used only to place this case within the Rakuten role dated June-December 2023.
 
-## Executive snapshot
+## Evidence-grounded premise
 
-Led Series D diligence for a high-growth commerce platform when investors proposed a 20% valuation haircut. Separating operating quality from external risk turned a headline pricing dispute into explicit demand, unit-economics, regulatory, competitive, expansion, and execution scenarios.
+IFRS 13 defines fair value using market-participant assumptions and valuation techniques appropriate to available data, maximizing observable inputs. OECD institutional-investor guidance treats due diligence as an ongoing process, not a one-time screen. Together they support underwriting a late-stage commerce company through verified cohort economics, cash requirements, governance, and valuation sensitivity.
 
-## Resume-ready impact
+## Case approach
 
-- Led Series D operating and valuation diligence supporting a $450M financing, triangulating adoption, GMV, revenue, unit economics, delivery, and customer experience.
-- Built a risk-adjusted valuation bridge that separated company quality from regulatory and competitive risk and made base/downside assumptions visible to co-investors.
-- Established post-close milestones subsequently supported by GMV doubling to $3B, revenue tripling to $45M, and expansion from 50 to 150 cities.
+- Reconcile reported growth to active customers, repeat behavior, contribution economics, and cash consumption.
+- Test market, income, and cost valuation approaches using observable inputs where possible.
+- Separate demonstrated scale advantages from assumptions about density, retention, and operating leverage.
+- Price governance, concentration, financing, execution, and downside risk into the decision and terms.
 
-## Interview story
+## Evidence-based success measures
 
-### Situation
+Use reconciled cohorts, observable-input coverage, valuation range, cash runway, downside survival, governance gaps, and post-investment milestones. These are proposed measures, not historical results.
 
-The company showed rapid scale and improving operations, but regulation and subsidy-led competition made a headline multiple unreliable. Syndicate members compressed multiple concerns into one 20% haircut.
+## External source map
 
-### Task
-
-Determine whether the operating engine was real, price downside explicitly, and improve the investment decision even if the final valuation differed from the initial recommendation.
-
-### Actions
-
-- Triangulated MAU growth, transaction scale, order behavior, unit economics, delivery time, NPS, capacity, and lead time.
-- Connected regulatory, competitive, expansion, and execution risks to specific tests and valuation responses.
-- Presented a shared valuation bridge distinguishing observed facts from judgment.
-- Accepted the syndicate decision and shifted immediately to milestone monitoring.
-
-### Results
-
-- The $450M round closed.
-- GMV later doubled from $1.5B to $3B, and annual revenue tripled from $15M to $45M.
-- The company expanded from 50 to 150 cities and reduced delivery time from 48 to 24 hours.
-- NPS increased from 50 to 65.
-
-## Decisions and trade-offs
-
-- Challenge a blanket haircut while acknowledging real external risk.
-- Treat strong diligence as decision-quality improvement, not proof that the highest valuation must win.
-- Tie follow-on support to observable operating milestones.
-
-## Leadership signal
-
-Built alignment across internal stakeholders and co-investors by making assumptions and risk appetite explicit, then demonstrated 'disagree and commit' discipline.
-
-## Skills and keywords
-
-growth investing · Series D · investment diligence · valuation · scenario analysis · unit economics · downside risk · syndicate · investment committee · portfolio monitoring
-
-## Factual boundary
-
-The post-investment operating results validate the thesis but are not presented as outcomes personally caused by the diligence work.
-
-## Source
-
-[Original Notion project page](https://app.notion.com/p/15bf9e255f21800f848cdb83942cd940)
-
+| Source | Contribution |
+|---|---|
+| [IFRS Foundation - IFRS 13 Fair Value Measurement](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-13-fair-value-measurement/) | Primary valuation framework and observable-input hierarchy. |
+| [OECD - Responsible business conduct for institutional investors (2017)](https://doi.org/10.1787/8b9e240a-en) | Primary ongoing investor due-diligence framework. |
+| [Public resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) | Work dates only. |

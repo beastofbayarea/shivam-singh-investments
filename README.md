@@ -27,6 +27,12 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 
 Stories are grouped by their primary resume experience in reverse chronological order. Each project includes resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
 
+### Amazon Web Services (AWS)
+
+**Principal, Investment Analysis and Portfolio Strategy** | July 2024 - Present
+
+- [AI FinTech portfolio: security value creation](./projects/ai-fintech-portfolio-security-value-creation.md) - operating diligence, technical-risk remediation, compliance velocity, and portfolio value creation
+
 ### Rakuten Group, Inc.
 
 **Investment Diligence - MBA Intern** | June 2023 - December 2023

@@ -32,6 +32,22 @@ No realized revenue is claimed because the transaction results and matched rollo
 
 The deeper outcome was a capital-governance system that survived the turnaround: evidence, limits, stress behavior, and escalation determined authority rather than confidence or urgency.
 
+## Diagnostic answer — an underperforming investment system
+
+**Q: How would you diagnose organizational underperformance?**
+
+**A:** I locate the breakdown with a performance tree, diagnose the strategic and organizational causes, and then fix the binding constraint with explicit owners and recovery gates. I used that method when a $5 billion emerging-markets mandate lost $150 million in three months.
+
+To **locate** the loss, I refused to debate the model from aggregate monthly P&L. I rebuilt the evidence from model decisions, market data, FIX fills, slippage, exposures, limit events, and dated macro events. The performance tree was: **investment loss = signal-selection error + sizing error + execution shortfall**. That distinguished a wrong-regime signal from an acceptable signal with too much capital or a sound decision executed badly.
+
+To **diagnose** the organization, I tested strategy, systems, structure, skills, and decision rights. The model had learned mainly from a mean-reverting decade and then met persistent volatility, sanctions, elections, geopolitical shocks, and thinner liquidity. Monthly review hid regime behavior. Quant, Trading, Risk, Engineering, Compliance, and Investor Relations each held only part of the record. The deeper failure was therefore not one algorithm: the strategy could not identify a changed regime, implementation loss was obscured, and no shared operating system joined evidence to capital authority.
+
+To **fix** it, I created one crisis team and one recovery record. The adaptive layer classified regime and weighted mean-reversion, trend, and capital-preservation specialists, but deterministic capital, concentration, and drawdown limits remained outside the model. I began with a bounded $500 million Brazil/India pilot and required weekly agreement across return, Sharpe, drawdown, slippage, liquidity, regime, limits, and unexplained variance before any tranche advanced.
+
+The pilot recorded 12% over three months, Sharpe improved from 0.6 to 1.2, and slippage fell 40%. The original $150 million loss was recovered over nine months. The live record supported an estimated $40 million annualized run rate and coincided with $200 million of new AUM, which I do not attribute to one intervention alone.
+
+The organizational change was as important as the investment result. Monthly retrospective review became continuous monitoring plus weekly cross-functional capital decisions, and Investor Relations used the same evidence translated for clients rather than building a separate recovery story. The lesson is that underperformance becomes tractable when the performance tree assigns the right cause, the operating model assigns the right owner, and authority returns only against observable evidence.
+
 ## My investment operating model
 
 I connect market structure, customer behavior, unit economics, technology, regulation, valuation, portfolio construction, and operating ownership. A useful memo must answer four questions:

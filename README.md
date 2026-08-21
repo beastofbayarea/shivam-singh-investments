@@ -23,6 +23,16 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 - [Investment and diligence track record](./work-samples/investment-diligence-track-record.pdf) - venture, corporate investment, and commercial-diligence experience across invested and passed opportunities
 - [ProbeTruth investment memo](./work-samples/probetruth-investment-memo.pdf) - an IC-ready assessment of a neurosymbolic deepfake-detection company for regulated markets
 
+## Project interview stories
+
+Each story adapts a portfolio project to this role narrative, with resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+
+- [Emerging-markets quant fund: regime recovery](./projects/emerging-markets-quant-fund-regime-recovery.md) - portfolio diagnosis, downside control, and recovery thesis
+- [Trading algorithm: regime-aware turnaround](./projects/trading-algorithm-regime-aware-turnaround.md) - performance attribution and systematic-risk remediation
+- [Nice Tuan Series D: diligence and valuation](./projects/nice-tuan-series-d-diligence-valuation.md) - growth investment underwriting and downside analysis
+- [Sovereign capital: low-latency performance pricing](./projects/sovereign-capital-low-latency-performance-pricing.md) - investment economics, incentives, and performance governance
+- [Oman sovereign wealth: portfolio and fee strategy](./projects/oman-sovereign-wealth-portfolio-fee-strategy.md) - mandate design, allocation strategy, and stakeholder alignment
+
 ## Profile
 
 - Email: [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu)

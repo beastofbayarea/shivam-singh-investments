@@ -2,7 +2,7 @@
 
 > **Experience alignment:** McKinsey & Company, Associate, Investor Due Diligence, 2014-2018.
 
-> **Grounding standard:** This is a conservative interview reconstruction. Candidate-specific role, action, and outcome claims come from the [public role-targeted resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf). The remaining sources establish pricing and causal-analysis methods available during the experience window; they do not independently verify the candidate's participation.
+> **Evidence hierarchy:** Contemporaneous external pricing and causal-analysis sources are the primary grounding for the analytical design, counterfactual logic, risk framing, and trade-offs. The [public role-targeted resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) is secondary evidence used only for the work-experience dates and candidate-specific outcome claims. The external sources do not independently verify the candidate's participation.
 
 ## Portfolio lens
 
@@ -61,9 +61,9 @@ investment research · commercial due diligence · pricing elasticity · differe
 
 | Evidence used | External source | Publication timing |
 |---|---|---|
-| Candidate role, 2014-2018 timeline, regression and difference-in-differences approach, $50M opportunity, cycle time, and hindcasting accuracy | [Public Investment & Portfolio Strategy resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) | Current public artifact describing 2014-2018 experience |
 | Elasticity estimation as a way to project unit volume, revenue, and profit impact | [McKinsey - Pricing fashion with science](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/pricing-fashion-with-science) | November 2014 |
 | Price-sensitivity simulations, switching behavior, granular segments, and pricing-risk management | [McKinsey - The pricing renaissance](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-pricing-renaissance-new-ways-to-reduce-risk-and-unlock-value) | April 2015 |
 | Difference-in-differences logic and the parallel-paths assumption | [World Bank - Assumptions behind the difference-in-difference estimator](https://blogs.worldbank.org/en/impactevaluations/often-unspoken-assumptions-behind-difference-difference-estimator-practice) | November 2013 |
+| Secondary alignment only: candidate role, 2014-2018 timeline, regression and difference-in-differences approach, $50M opportunity, cycle time, and hindcasting accuracy | [Public Investment & Portfolio Strategy resume](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) | Current public artifact describing 2014-2018 experience |
 
 All methodological sources predate or fall within the 2014-2018 work-experience window.

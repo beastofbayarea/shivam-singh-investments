@@ -1,49 +1,44 @@
-# Shivam Singh - Investment Analysis and Portfolio Strategy
+# Shivam Singh — Investment Analysis & Portfolio Strategy
 
-## Profile
+My investment work is built around a simple distinction: uncertainty cannot be eliminated, but it can be made governable.
 
-Hi, I’m Shivam. I’m drawn to investments where the upside is compelling but the decisive questions sit beneath the headline: the durability of demand, the quality of unit economics, the technical or regulatory constraint, the price already being paid, and the operating work needed after the investment.
+That means choosing the right unit of underwriting, writing the disconfirming evidence before capital is committed, pricing scenarios rather than headlines, and making post-investment work part of the original thesis.
 
-You can reach me at [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/beastofbayarea).
+[Resume](./shivam-singh-investments.pdf) · [LinkedIn](https://www.linkedin.com/in/beastofbayarea) · [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu)
 
-## My underwriting style
+## Four entries from the decision journal
 
-I want a thesis I can test, not a story I can only admire. I state the assumptions, identify what would disprove them, and connect commercial, financial, technical, and management diligence into one decision.
+### Security was the portfolio constraint, not an overhead line
 
-I also spend time on the downside before treating the upside as real. Valuation ranges, scenario drivers, risk triggers, and value-creation priorities should make it easier to act after the investment—not just easier to approve it.
+In [AI FinTech portfolio security value creation](./projects/ai-fintech-portfolio-security-value-creation.md), recurring enterprise friction across portfolio companies traced back to the same adoption barrier: banks could not move faster than the companies' security and compliance evidence. I established a common control plane with explicit investment gates, shared remediation patterns, automated evidence, and named company owners.
 
-## A small portfolio of decisions
+Protected-compute latency moved from fourteen seconds to roughly 200–220 milliseconds. Audit readiness fell from nine months to three, participating companies reached audited posture scores above 95, and equivalent insurance premiums fell 40%. Company-reported AI ROI moved from 4–5% to 10–12% and retention rose 18%, but the analysis does not attribute every commercial improvement to security alone. The investment insight was that a shared constraint could become portfolio-level value creation without becoming permanent central dependency.
 
-The projects below are grouped by career experience, newest first. I explain what I believed, what the evidence showed, what could break, what I was prepared to pay or change, and what decision followed. Independent sources inside each file support the analysis.
+### Headline financing was not evidence of a repeatable city
 
-### Amazon Web Services (AWS)
+The [Nice Tuan Series D forensic review](./projects/nice-tuan-series-d-diligence-valuation.md) reconstructed what an investor could have known before later collapse. More than $1.2 billion of reported funding and strong sponsors did not answer whether a mature city produced cash after normalized subsidy, seller incentives, fulfillment, spoilage, refunds, and local overhead.
 
-**Principal, Investment Analysis and Portfolio Strategy** | July 2024 - Present
+I changed the underwriting unit from company GMV to mature-city contribution, then linked valuation and follow-on capital to five gates: retained customers without subsidy, positive full-cost city economics, supplier and working-capital health, legally repeatable pricing, and convergence of new cities toward the mature curve. The conclusion was not hindsight theater or a claim that I predicted shutdown. It was a rule: replication receives value only after a local engine proves it can operate without capital concealing the economics.
 
-#### [AI FinTech portfolio: security value creation](./projects/ai-fintech-portfolio-security-value-creation.md)
+### Pricing power existed only inside customer and causal boundaries
 
-I identified security and compliance as a shared value-creation constraint across a portfolio of AI FinTech companies. A common AWS-native control plane, explicit technology gates, automated evidence, and operator ownership converted recurring technical risk into faster enterprise adoption, stronger retention, and measurable portfolio economics.
+[The retail-pricing investment thesis](./projects/retail-pricing-investment-thesis-elasticity.md) replaced portfolio averages with segment-level elasticity ranges, competitive and substitution sensitivity, customer guardrails, and explicit stop signals. The diligence cycle fell from six weeks to under one; hindcasting on key broader assumptions reached roughly 95%; and the analysis identified a $50 million modeled opportunity.
 
-### Rakuten Group, Inc.
+No realized revenue is claimed because the transaction results and matched rollout counterfactual were not retained. That boundary is part of the underwriting quality: an evidence-backed opportunity can justify staged action without becoming fictional historical performance.
 
-**Investment Diligence - MBA Intern** | June 2023 - December 2023
+### After a loss, capital had to be re-earned
 
-#### [Nice Tuan: a post-investment review of growth and risk](./projects/nice-tuan-series-d-diligence-valuation.md)
+[The regime-aware trading-strategy turnaround](./projects/trading-algorithm-regime-aware-turnaround.md) began after a $150 million loss over three months. I required loss attribution before redesign, separated model interpretation from the authority to trade, and returned capital in tranches. A bounded $500 million Brazil/India pilot produced a reported 12% over three months; Sharpe improved from 0.6 to 1.2; slippage fell 40%; and the original loss was recovered over nine months. The live record supported an estimated $40 million annualized run rate and coincided with $200 million of new AUM, without treating communication as the sole cause of inflows.
 
-I reviewed Nice Tuan's completed investment cycle to understand why headline fundraising and expansion failed to translate into a durable business. The analysis turned public evidence on subsidies, unit economics, working capital, regulation, and city contraction into stronger valuation and post-investment monitoring gates.
+The deeper outcome was a capital-governance system that survived the turnaround: evidence, limits, stress behavior, and escalation determined authority rather than confidence or urgency.
 
-### The D. E. Shaw Group
+## My investment operating model
 
-**Vice President, Institutional Portfolio Analytics** | July 2016 - December 2019
+I connect market structure, customer behavior, unit economics, technology, regulation, valuation, portfolio construction, and operating ownership. A useful memo must answer four questions:
 
-#### [Trading algorithm: regime-aware turnaround](./projects/trading-algorithm-regime-aware-turnaround.md)
+1. What is the smallest unit in which the thesis must be true?
+2. Which observable fact would make us wrong?
+3. What is already reflected in price, and which value requires new execution?
+4. What evidence releases, holds, or removes the next tranche of capital?
 
-I took ownership of a $5B emerging-markets trading strategy after a three-month decline caused a $150M loss. A single crisis team separated signal and execution failure, redesigned the strategy for regime awareness, imposed deterministic risk boundaries, and earned capital back through a $500M gated pilot.
-
-### McKinsey & Company
-
-**Associate, Investor Due Diligence** | 2014 - 2018
-
-#### [Retail pricing: elasticity-led investment thesis](./projects/retail-pricing-investment-thesis-elasticity.md)
-
-I converted a retailer's pricing question into an investor-grade value thesis. I completed an elasticity-based analysis using regression and difference-in-differences that identified a $50M revenue opportunity and reduced the analytical cycle from six weeks to less than one week; the broader diligence work used hindcasting to reach approximately 95% forecast accuracy on key operating assumptions.
+That standard works across venture, growth, public-market, and operating investments because it turns conviction into an auditable sequence of decisions.

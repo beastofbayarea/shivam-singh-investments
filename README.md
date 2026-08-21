@@ -25,13 +25,18 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 
 ## Project interview stories
 
-Each story adapts a portfolio project to this role narrative, with resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+Each story adapts a portfolio project to this role narrative, with resume-ready impact, interview framing, decisions, metrics, and a link to the source page. The primary resume experience identifies the work-history anchor whose stated scope and evidence best support the story.
 
 - [Emerging-markets quant fund: regime recovery](./projects/emerging-markets-quant-fund-regime-recovery.md) - portfolio diagnosis, downside control, and recovery thesis
+  - **Primary resume experience:** The D. E. Shaw Group - Vice President, Institutional Portfolio Analytics (July 2016 - December 2019)
 - [Trading algorithm: regime-aware turnaround](./projects/trading-algorithm-regime-aware-turnaround.md) - performance attribution and systematic-risk remediation
+  - **Primary resume experience:** The D. E. Shaw Group - Vice President, Institutional Portfolio Analytics (July 2016 - December 2019)
 - [Nice Tuan Series D: diligence and valuation](./projects/nice-tuan-series-d-diligence-valuation.md) - growth investment underwriting and downside analysis
+  - **Primary resume experience:** Rakuten Group, Inc. - Investment Diligence - MBA Intern (June 2023 - December 2023)
 - [Sovereign capital: low-latency performance pricing](./projects/sovereign-capital-low-latency-performance-pricing.md) - investment economics, incentives, and performance governance
+  - **Primary resume experience:** The D. E. Shaw Group - Vice President, Institutional Portfolio Analytics (July 2016 - December 2019)
 - [Oman sovereign wealth: portfolio and fee strategy](./projects/oman-sovereign-wealth-portfolio-fee-strategy.md) - mandate design, allocation strategy, and stakeholder alignment
+  - **Primary resume experience:** The D. E. Shaw Group - Vice President, Institutional Portfolio Analytics (July 2016 - December 2019)
 
 ## Profile
 

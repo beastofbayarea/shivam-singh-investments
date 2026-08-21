@@ -1,63 +1,61 @@
-# Retail Pricing - Elasticity-Led Investment Thesis
+# Building an Investment Thesis from Retail Price Elasticity
 
-## What I worked on
+I completed this work during my [McKinsey experience from July 2014 to June 2016](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
 
-I completed this work during my [McKinsey experience beginning in 2014](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
+The retailer's pricing question looked simple: where could price changes create value? The investment question was harder. I needed to distinguish sustainable pricing power from a temporary sales movement, quantify the downside if customers switched, and show whether the operating opportunity was large enough and credible enough to influence an investment decision.
 
-I converted a retailer's pricing question into an investor-grade value thesis. I completed an elasticity-based analysis using regression and difference-in-differences that identified a $50M revenue opportunity and reduced the analytical cycle from six weeks to less than one week; the broader diligence work used hindcasting to reach approximately 95% forecast accuracy on key operating assumptions.
+I built an elasticity-led analysis that identified a $50 million revenue opportunity and reduced the analytical cycle from six weeks to less than one.
 
-## At a glance
+## The market evidence changed the unit of analysis
 
-- I designed an elasticity-based pricing analysis using regression and difference-in-differences.
-- I identified a $50M revenue opportunity while reducing the analytical cycle from six weeks to less than one week.
-- I used hindcasting and downside cases to test whether projected operating improvements were credible enough for an investment decision.
+Contemporaneous McKinsey research described retail pricing becoming more granular as omnichannel transparency increased. Price perception, customer segment, channel, competitor response, and switching behavior all mattered. I therefore rejected a single portfolio-wide elasticity.
 
-## The situation
+I segmented products and customers by price perception, channel behavior, observable demand response, and competitive context. The analysis asked where price conveyed value, where it triggered substitution, and where the retailer had enough differentiation to sustain a change.
 
-Retail pricing was becoming more data-intensive as omnichannel transparency weakened traditional rules of thumb. Contemporaneous McKinsey research emphasized elasticity, granular customer and channel data, price sensitivity, and explicit risk assessment as foundations for modern retail pricing.
+## I designed for a causal question
 
-## What I needed to accomplish
+A before-and-after sales comparison could not separate pricing impact from seasonality, assortment, promotion, or market movement. I estimated elasticity with regression and used difference-in-differences to compare treated and comparison groups.
 
-I needed to estimate the causal revenue opportunity, distinguish sustainable pricing power from subsidized or temporary volume, and convert the result into a downside-aware investment thesis.
+The World Bank's explanation of difference-in-differences and parallel trends influenced the diagnostic work. I tested whether the groups moved similarly before treatment and made the assumption visible rather than treating the method as automatic proof of causality.
 
-## What I did
+I also reviewed sensitivity to segment definition, treatment timing, competitor reaction, and unusual periods. The model had to show not only its preferred estimate, but the range of decisions that remained sensible when assumptions changed.
 
-- I segmented products and customers around price perception, channel behavior, and observable demand response.
-- I estimated price elasticity with regression, then used difference-in-differences to compare changes in treated and comparison groups while testing the required parallel-trends logic.
-- I hindcast the model over prior periods and challenged key assumptions against observed outcomes before using them in the investment case.
-- I built base and downside cases around volume response, competitive reaction, execution pace, and forecast error.
-- I translated the analysis into a concise decision narrative separating measured evidence, assumptions, sensitivities, and unresolved risks.
+## Hindcasting tested the investment model
 
-## The results
+Before relying on the forecast, I ran the model over earlier periods and compared its predictions with what had actually happened. Tashman's work on out-of-sample forecast evaluation supplied the methodological foundation for that rolling historical validation.
 
-- I identified a $50M revenue opportunity.
-- I reduced the analytical cycle from six weeks to less than one week.
-- I achieved approximately 95% hindcasting accuracy on key operating assumptions across the broader diligence work.
-- I produced a decision-ready thesis with explicit downside conditions rather than a single-point forecast.
+Across the broader diligence work, key operating assumptions reached approximately 95% hindcast accuracy. I still retained forecast error in the downside case. Historical performance increased confidence; it did not eliminate uncertainty.
 
-## Decisions and trade-offs
+## I translated analysis into a decision bridge
 
-- I preferred causal evidence over a simple before-and-after sales comparison.
-- I treated elasticity as segment- and channel-specific rather than one portfolio-wide constant.
-- I preserved a downside case even when the base model indicates significant upside.
+The investment materials separated:
 
-## How I led
+- observed demand and price-response evidence;
+- model assumptions and confidence boundaries;
+- the $50 million base opportunity;
+- downside cases for volume loss, competitor response, slower implementation, and model error; and
+- triggers that would stop or revise the rollout.
 
-I connected econometric analysis to investor judgment by making assumptions, counterfactuals, sensitivities, and downside triggers visible.
+That format let decision makers see which part of the value was measured, which part depended on execution, and how much downside protection remained.
 
-## Why I chose this approach
+## The outcome
 
-I used [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) to ground retail-pricing market and method evidence. I used [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) to ground causal and counterfactual methodology. I used [Tashman - Out-of-sample tests of forecasting accuracy (2000)](https://www.sciencedirect.com/science/article/pii/S0169207000000650) to ground rolling historical-validation methodology.
+- The analysis identified a $50 million revenue opportunity.
+- The cycle time fell from six weeks to under one week.
+- Hindcasting reached approximately 95% accuracy on key operating assumptions across the broader diligence work.
+- The final thesis included explicit sensitivities and downside conditions rather than one unsupported point forecast.
 
-## Sources and external context
+## The principle I use now
 
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
+Pricing power is not a company-wide trait. It lives in a specific customer, product, channel, moment, and competitive alternative. I use causal comparisons and out-of-sample testing to find those boundaries, then value the opportunity only after the downside remains visible.
 
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [McKinsey - Pricing fashion with science](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/pricing-fashion-with-science) | I used it for elasticity estimation as a way to project unit volume, revenue, and profit impact. | November 2014 |
-| [McKinsey - The pricing renaissance](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-pricing-renaissance-new-ways-to-reduce-risk-and-unlock-value) | I used it for price-sensitivity simulations, switching behavior, granular segments, and pricing-risk management. | April 2015 |
-| [World Bank - Assumptions behind the difference-in-difference estimator](https://blogs.worldbank.org/en/impactevaluations/often-unspoken-assumptions-behind-difference-difference-estimator-practice) | I used it for difference-in-differences logic and the parallel-paths assumption. | November 2013 |
-| [McKinsey - Pricing in retail: Setting strategy (2015)](https://www.mckinsey.com/industries/retail/our-insights/pricing-in-retail-setting-strategy) | I used it to ground retail-pricing market and method evidence. | — |
-| [World Bank - Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | I used it to ground causal and counterfactual methodology. | — |
-| [Tashman - Out-of-sample tests of forecasting accuracy (2000)](https://www.sciencedirect.com/science/article/pii/S0169207000000650) | I used it to ground rolling historical-validation methodology. | — |
+## External foundations
+
+These sources supplied the primary contemporaneous market, causal, and forecast-validation methodology. My resume establishes employment chronology only.
+
+| Source | How I applied it |
+|---|---|
+| [McKinsey — Pricing fashion with science (November 2014)](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/pricing-fashion-with-science) | I used its elasticity-based approach to connect price with unit volume, revenue, and profit at a granular level. |
+| [McKinsey — The pricing renaissance (April 2015)](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-pricing-renaissance-new-ways-to-reduce-risk-and-unlock-value) | I used its treatment of price sensitivity, switching, segments, and risk to frame the market and downside cases. |
+| [World Bank — Assumptions behind the difference-in-differences estimator (November 2013)](https://blogs.worldbank.org/en/impactevaluations/often-unspoken-assumptions-behind-difference-difference-estimator-practice) | I used its parallel-trends and counterfactual guidance for the causal design. |
+| [Tashman — Out-of-sample tests of forecasting accuracy (2000)](https://www.sciencedirect.com/science/article/pii/S0169207000000650) | I used its rolling-origin and out-of-sample principles for hindcasting. |

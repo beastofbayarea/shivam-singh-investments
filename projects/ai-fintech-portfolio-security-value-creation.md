@@ -1,58 +1,54 @@
-# AI FinTech Portfolio - Security Value Creation
+# Turning Shared AI FinTech Security Risk into Portfolio Value
 
-## What I worked on
+I led this portfolio value-creation work during my [AWS experience beginning in July 2024](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
 
-I completed this work during my [AWS experience from July 2024 to present](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
+Across several AI FinTech companies, different incidents pointed to one investment constraint: enterprise adoption was moving faster than the companies' security and compliance systems. The risks included public-model data leakage, biased credit behavior, deepfake onboarding, and unprotected data in use.
 
-I identified security and compliance as a shared value-creation constraint across a portfolio of AI FinTech companies. A common AWS-native control plane, explicit technology gates, automated evidence, and operator ownership converted recurring technical risk into faster enterprise adoption, stronger retention, and measurable portfolio economics.
+I translated those recurring risks into a shared operating thesis. Security work would be prioritized not only by technical severity, but by its effect on bank-buyer confidence, compliance readiness, insurance cost, retention, and valuation risk.
 
-## At a glance
+## I created a common control plane with company-level gates
 
-- I led a portfolio security value-creation program that recorded zero breaches, reduced compliance readiness from nine months to three, and cut cyber-insurance premiums 40%.
-- I recovered a failed privacy architecture within 48 hours, replacing FHE that caused 14-second latency with Nitro Enclaves delivering roughly 200-220 ms performance.
-- I established automated controls and evidence that supported 95+ Security Hub scores in audited companies and helped improve customer retention 18%.
+NIST's Cybersecurity Framework 2.0 supplied the primary portfolio structure. I used its govern, identify, protect, detect, respond, and recover functions to define outcomes while allowing each company to implement controls appropriate to its architecture.
 
-## The situation
+The shared pattern combined identity and access management, verified access, fairness tests, model guardrails, deepfake detection, key management, protected execution, code scanning, Security Hub, and automated audit evidence. NIST's Generative AI Profile added the model-specific frame around confabulation, privacy, information integrity, cybersecurity, bias, and human oversight.
 
-Public-LLM leakage, biased credit models, deepfake onboarding, and unprotected data in use created a common enterprise-adoption and investment-risk pattern across AI FinTech companies.
+Each remediation had an investment gate, accountable operator, production proof, and a business measure. A slide showing a planned control did not reduce portfolio risk.
 
-## What I needed to accomplish
+## A failed privacy path sharpened the decision model
 
-I needed to translate systemic technical and regulatory risk into a portfolio operating thesis, remediation plan, measurable value-creation milestones, and repeatable governance standard.
+One company initially chose fully homomorphic encryption. The protection was strong in theory, but the implementation produced 14-second latency against a sub-300-millisecond adoption requirement.
 
-## What I did
+I ran two technical paths in parallel and used the predefined performance threshold to stop the losing option. The replacement used Nitro Enclaves and delivered approximately 200–220 milliseconds. The decision did not abandon privacy; it chose a control that protected data in use while allowing the customer workflow to function.
 
-- I mapped the same architecture to investor, founder, engineer, and bank-CISO outcomes.
-- I combined Verified Access, IAM, fairness tests, model guardrails, deepfake detection, KMS, enclaves, code scanning, Security Hub, and Audit Manager.
-- I ran two technical paths after the FHE failure and stopped the losing option when it could not meet the sub-300 ms investment criterion.
-- I introduced a 72-hour production-proof rule, automated evidence, and internal security champions to make the control standard durable.
-- I linked progress to enterprise readiness, insurance cost, retention, technical risk, and portfolio-level adoption economics.
+That episode became a portfolio rule: the strongest isolated control is not automatically the lowest-risk product choice. If it makes the service unusable, customers will avoid the product or teams will route around the control.
 
-## The results
+## Proof and ownership made the standard durable
 
-- Zero breaches were recorded during the program period.
+I introduced a 72-hour production-proof rule for material remediations. Evidence had to show that the control was deployed, observable, and behaving as intended. Automated evidence reduced recurring manual preparation, while an internal security champion at each company owned the operating standard after the central program moved on.
+
+I reported progress in two connected views:
+
+- technical and governance evidence, such as control coverage, findings, response ownership, and audited Security Hub scores; and
+- portfolio value, such as enterprise readiness, sales friction, insurance premium, retention, and adoption economics.
+
+## What changed across the portfolio
+
+- No breaches were recorded during the program period.
 - Compliance readiness fell from nine months to three.
-- Cyber-insurance cost declined 40%, and audited companies maintained 95+ control scores.
-- I reported AI ROI increased from 4-5% to 10-12%, and customer retention improved 18%.
+- Cyber-insurance premiums declined 40%.
+- Audited companies maintained Security Hub scores above 95.
+- Reported AI return on investment increased from 4%–5% to 10%–12%.
+- Customer retention improved 18%.
 
-## Decisions and trade-offs
+## The investment lesson
 
-- I stopped a privacy-maximal technology when it failed the latency and adoption thesis.
-- I automated security evidence rather than create recurring manual approval queues.
-- I required explicit production proof and long-term operator ownership before treating remediation as complete.
+Cybersecurity becomes a value-creation program when technical evidence is connected to the buyer's decision and a long-term operator owns the control. I use common standards to accelerate the repeatable work, but I retain explicit product and architecture gates so a portfolio company does not implement security theater—or a technically pure system nobody can adopt.
 
-## How I led
+## External foundations
 
-I aligned investors, founders, engineers, security leaders, and bank buyers by connecting technical controls to valuation risk, sales velocity, insurance economics, customer retention, and verifiable trust.
+These sources supplied the primary cybersecurity and generative-AI risk methodology. My resume is linked only to establish employment chronology.
 
-## Why I chose this approach
-
-I used [NIST - Cybersecurity Framework 2.0 (2024)](https://doi.org/10.6028/NIST.CSWP.29) to ground cybersecurity governance and outcome framework. I used [NIST - Generative AI Profile (2024)](https://doi.org/10.6028/NIST.AI.600-1) to ground generative AI risk and evaluation framework.
-
-## Sources and external context
-
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
-
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [NIST - Cybersecurity Framework 2.0 (2024)](https://doi.org/10.6028/NIST.CSWP.29) | I used it to ground cybersecurity governance and outcome framework. | — |
+| Source | How I applied it |
+|---|---|
+| [NIST — Cybersecurity Framework 2.0 (2024)](https://doi.org/10.6028/NIST.CSWP.29) | I used its outcome-based functions to create a common portfolio control and ownership structure. |
+| [NIST — Generative AI Profile (2024)](https://doi.org/10.6028/NIST.AI.600-1) | I used its model-specific risks and measurement guidance for leakage, bias, integrity, oversight, and production proof. |

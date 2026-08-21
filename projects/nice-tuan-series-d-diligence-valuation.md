@@ -1,62 +1,52 @@
-# Nice Tuan Series D — Investment Diligence & Valuation
+# Nice Tuan — A Post-Investment Review of Growth, Risk, and Diligence
 
-## What I worked on
+I completed this review during my [Rakuten experience from June to December 2023](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
 
-I completed this work during my [Rakuten experience from June to December 2023](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
+Nice Tuan offered a useful investment lesson precisely because the headline growth story and the eventual operating outcome diverged so sharply. The company raised $750 million in March 2021 after raising almost $450 million across four rounds in 2020. By August 2021, reporting showed it closing operations in multiple cities and laying off staff; by 2022, its operations had largely ceased.
 
-I led Series D diligence for a high-growth commerce platform when investors proposed a 20% valuation haircut. Separating operating quality from external risk turned a headline pricing dispute into explicit demand, unit-economics, regulatory, competitive, expansion, and execution scenarios.
+I used the completed investment cycle as a post-investment review: which diligence signals could have separated genuine operating quality from subsidy-funded scale, and how should those signals change a valuation and monitoring plan?
 
-## At a glance
+## I rebuilt the original thesis from contemporaneous evidence
 
-- I led Series D operating and valuation diligence supporting a $450M financing, triangulating adoption, GMV, revenue, unit economics, delivery, and customer experience.
-- I built a risk-adjusted valuation bridge that separated company quality from regulatory and competitive risk and made base/downside assumptions visible to co-investors.
-- I established post-close milestones subsequently supported by GMV doubling to $3B, revenue tripling to $45M, and expansion from 50 to 150 cities.
+The attractive case included group-buying demand, rapid city expansion, access to capital, supply-chain investment, and backing from experienced investors. The more difficult evidence included thin margins, aggressive subsidies, escalating competition from larger platforms, pricing regulation, low loyalty when discounts stopped, and the working-capital burden of physical fulfillment.
 
-## The situation
+AgFunderNews' financing report established the scale and timing of the March 2021 round. South China Morning Post and TechNode reporting documented the subsequent city closures, layoffs, competition, and regulatory pressure. I treated those as market evidence, not as proof of any private investor model.
 
-The company showed rapid scale and improving operations, but regulation and subsidy-led competition made a headline multiple unreliable. Syndicate members compressed multiple concerns into one 20% haircut.
+## The review separated six questions
 
-## What I needed to accomplish
+I organized the analysis around:
 
-I needed to determine whether the operating engine was real, price downside explicitly, and improve the investment decision even if the final valuation differed from the initial recommendation.
+1. Organic demand: what happened to order frequency and retention when subsidies declined?
+2. Unit economics: did a city improve contribution as density grew, after fulfillment and promotion cost?
+3. Working capital: how much cash did expansion consume before a cohort matured?
+4. Competitive durability: what could the company defend against platforms with larger ecosystems and balance sheets?
+5. Regulatory exposure: how much of growth depended on pricing behavior that regulators could restrict?
+6. Expansion quality: did each new city repeat a proven model or simply add gross merchandise value?
 
-## What I did
+The distinction between gross merchandise value and durable contribution was central. A rising transaction total could coexist with weaker cash flow, poorer retention, and greater regulatory risk.
 
-- I triangulated MAU growth, transaction scale, order behavior, unit economics, delivery time, NPS, capacity, and lead time.
-- I connected regulatory, competitive, expansion, and execution risks to specific tests and valuation responses.
-- I presented a shared valuation bridge distinguishing observed facts from judgment.
-- I accepted the syndicate decision and shifted immediately to milestone monitoring.
+## I converted the review into a valuation bridge
 
-## The results
+IFRS 13 influenced how I separated observable market inputs from model assumptions. I built a base and downside bridge around mature-city contribution, subsidy sensitivity, customer retention, fulfillment cost, regulatory constraints, and capital required for expansion.
 
-- The $450M round closed.
-- GMV later doubled from $1.5B to $3B, and annual revenue tripled from $15M to $45M.
-- The company expanded from 50 to 150 cities and reduced delivery time from 48 to 24 hours.
-- NPS increased from 50 to 65.
+OECD institutional-investor guidance shaped the continuing-diligence view. Closing a round should begin monitoring, not end it. I defined early-warning measures for subsidy dependence, cohort retention, supplier payment, employee contraction, city shutdown, and variance between planned and realized funding.
 
-## Decisions and trade-offs
+## Scope and attribution
 
-- I challenged a blanket haircut while acknowledging real external risk.
-- I treated strong diligence as decision-quality improvement, not proof that the highest valuation must win.
-- I tied follow-on support to observable operating milestones.
+I did not participate in Nice Tuan's 2021 financing and do not claim the company's fundraising or operating results as my work. My completed work was the 2023 post-investment analysis: I used the full Nice Tuan cycle to strengthen how I evaluate subsidized marketplace growth, valuation downside, and post-close monitoring.
 
-## How I led
+## The investment principle I retained
 
-I built alignment across internal stakeholders and co-investors by making assumptions and risk appetite explicit, then demonstrated 'disagree and commit' discipline.
+Growth is credible when customer behavior, cohort contribution, working capital, and regulatory feasibility improve together. When expansion requires continuing subsidy and ever-larger rounds, I treat reported scale as a hypothesis to investigate—not a reason to relax diligence.
 
-## A note on measurement
+## External foundations
 
-I separate my diligence contribution from the company’s post-investment operating results. I use those later results to evaluate the thesis, not as outcomes personally caused by my diligence work.
+The external record and frameworks below are the primary evidence for this review. My resume establishes only the timing of my Rakuten role.
 
-## Why I chose this approach
-
-I used [IFRS Foundation - IFRS 13 Fair Value Measurement](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-13-fair-value-measurement/) to ground valuation framework and observable-input hierarchy. I used [OECD - Responsible business conduct for institutional investors (2017)](https://doi.org/10.1787/8b9e240a-en) to ground ongoing investor due-diligence framework.
-
-## Sources and external context
-
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
-
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [IFRS Foundation - IFRS 13 Fair Value Measurement](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-13-fair-value-measurement/) | I used it to ground valuation framework and observable-input hierarchy. | — |
-| [OECD - Responsible business conduct for institutional investors (2017)](https://doi.org/10.1787/8b9e240a-en) | I used it to ground ongoing investor due-diligence framework. | — |
+| Source | How I applied it |
+|---|---|
+| [AgFunderNews — Nice Tuan raises $750 million (March 2021)](https://agfundernews.com/nice-tuan-raises-750m-in-alibaba-dst-led-round) | I used it for contemporaneous financing scale, prior fundraising, investors, and the stated growth thesis. |
+| [South China Morning Post — Nice Tuan ceases operations in some cities (August 2021)](https://www.scmp.com/tech/tech-trends/article/3146197/alibaba-backed-community-group-buying-start-nice-tuan-ceases) | I used it for contemporaneous evidence of closures, layoffs, competitive pressure, and regulatory setbacks. |
+| [TechNode — Nice Tuan scales back operations (August 2021)](https://technode.com/2021/08/23/alibaba-backed-nice-tuan-scales-back-operations-as-market-consolidates/) | I used it for independent evidence on city contraction, industry consolidation, and the financing context. |
+| [IFRS Foundation — IFRS 13 Fair Value Measurement](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-13-fair-value-measurement/) | I used its observable-input and market-participant principles for the valuation bridge. |
+| [OECD — Responsible business conduct for institutional investors (2017)](https://doi.org/10.1787/8b9e240a-en) | I used its ongoing due-diligence cycle to define post-investment monitoring. |

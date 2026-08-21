@@ -28,9 +28,9 @@ I identified security and compliance as a shared value-creation constraint acros
 
 **Investment Diligence - MBA Intern** | June 2023 - December 2023
 
-#### [Nice Tuan Series D: diligence and valuation](./projects/nice-tuan-series-d-diligence-valuation.md)
+#### [Nice Tuan: a post-investment review of growth and risk](./projects/nice-tuan-series-d-diligence-valuation.md)
 
-I led Series D diligence for a high-growth commerce platform when investors proposed a 20% valuation haircut. Separating operating quality from external risk turned a headline pricing dispute into explicit demand, unit-economics, regulatory, competitive, expansion, and execution scenarios.
+I reviewed Nice Tuan's completed investment cycle to understand why headline fundraising and expansion failed to translate into a durable business. The analysis turned public evidence on subsidies, unit economics, working capital, regulation, and city contraction into stronger valuation and post-investment monitoring gates.
 
 ### The D. E. Shaw Group
 

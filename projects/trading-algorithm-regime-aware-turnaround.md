@@ -1,58 +1,53 @@
-# Trading Algorithm Recovery — Regime-Aware Turnaround
+# Earning Capital Back for a Regime-Aware Trading Strategy
 
-## What I worked on
+I took ownership of this recovery during my [D. E. Shaw experience from July 2016 to December 2019](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
 
-I completed this work during my [D. E. Shaw experience from July 2016 to December 2019](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf).
+A $5 billion emerging-markets strategy lost $150 million over three months. The model had learned from a decade dominated by mean reversion, then encountered a persistent volatility and liquidity regime shaped by inflation, sanctions, elections, and geopolitical shocks. Monthly reviews and functional silos allowed the mismatch to compound.
 
-I took ownership of a $5B emerging-markets trading strategy after a three-month decline caused a $150M loss. A single crisis team separated signal and execution failure, redesigned the strategy for regime awareness, imposed deterministic risk boundaries, and earned capital back through a $500M gated pilot.
+I treated the decline as a system failure across signal, execution, risk, monitoring, and decision cadence—not as an unlucky quarter.
 
-## At a glance
+## I separated signal loss from execution loss
 
-- I led recovery of a $5B algorithmic strategy after a $150M loss, unifying Quant, Trading, Risk, Compliance, Data Science, and Investor Relations.
-- I redesigned the system around regime classification, ensemble selection, adaptive exposure, stress testing, and deterministic capital limits.
-- I improved pilot ROI 12%, reduced slippage 40%, restored Sharpe from 0.6 to 1.2, recovered the loss within nine months, and attracted $200M in new AUM.
+I formed one crisis team across Quant Research, Trading, Risk, Compliance, Data Science, Engineering, and Investor Relations. We rebuilt trade-level performance from FIX logs, market data, slippage, macro events, and model decisions.
 
-## The situation
+The attribution separated two questions. Did the signal select the wrong exposure for the observed regime? Did execution lose value while implementing an otherwise valid position? Combining them in one P&L number would have hidden the remedy.
 
-The model was trained on a decade of stable history, missed a new volatility and liquidity regime, and compounded losses because monthly reviews and functional silos delayed escalation.
+## The redesign recognized regime uncertainty
 
-## What I needed to accomplish
+I replaced one static model choice with regime classification, ensemble selection, and adaptive exposure. The strategy could change how it interpreted conditions, but it remained inside deterministic capital, concentration, and drawdown limits.
 
-I needed to contain further downside, prove a technically and operationally credible redesign, restore client trust, and scale only after measurable investment gates.
+The Basel Committee's 2016 market-risk framework provided contemporaneous context for expected shortfall, stress, and liquidity horizons. I used those concepts to make tail behavior and liquidity deterioration explicit in the release gates.
 
-## What I did
+I stress-tested currency crises, flash crashes, sanctions, elections, and sudden liquidity withdrawal. Tashman's work on rolling out-of-sample evaluation influenced the validation design: performance had to hold across unseen windows rather than only fit the period that had already failed.
 
-- I reconstructed trade-level performance using FIX logs, market data, slippage, macro events, and model decisions.
-- I separated signal error from execution error and replayed the failing periods.
-- I stress-tested currency crises, flash crashes, sanctions, elections, and liquidity shocks.
-- I deployed first to Brazil and India with weekly reviews and capital tranches tied to ROI, Sharpe, drawdown, and slippage.
+## Capital returned in tranches
 
-## The results
+The redesigned strategy did not regain authority through a presentation. I deployed it first to Brazil and India with a $500 million gated pilot. Weekly reviews covered return, Sharpe ratio, drawdown, slippage, regime classification, limit behavior, and unexplained variance.
 
-- I piloted ROI improved 12% within three months.
-- Execution slippage declined 40%, and Sharpe improved from 0.6 to 1.2.
-- The $150M loss was recovered within nine months.
-- The strategy added an estimated $40M in annualized profit and attracted $200M in new AUM.
+Each capital tranche required evidence that both investment behavior and the operating controls remained inside the agreed boundary. If results diverged, the team could pause at a known exposure instead of discovering a problem after restoring the full fund.
 
-## Decisions and trade-offs
+## What the recovery produced
 
-- I treated the decline as a system failure, not a bad quarter.
-- I kept adaptive models inside non-negotiable capital and drawdown limits.
-- I restored capital in tranches rather than through an immediate full-fund relaunch.
+- Pilot return on investment improved 12% within three months.
+- Execution slippage declined 40%.
+- Sharpe ratio improved from 0.6 to 1.2.
+- The $150 million loss was recovered within nine months.
+- The strategy added an estimated $40 million in annualized profit.
+- Transparent recovery evidence supported $200 million in new assets under management.
 
-## How I led
+## The organizational change outlasted the model
 
-I created one crisis charter and evidence model across investment, engineering, risk, compliance, execution, and client functions, then institutionalized 24/7 monitoring and a reusable playbook.
+I replaced monthly retrospective review with 24/7 monitoring, weekly cross-functional decisions during the pilot, and a reusable escalation playbook. Investor Relations received the same evidence model used by the technical and investment teams, translated for the client audience without exposing proprietary code.
 
-## Why I chose this approach
+## My investment rule after the turnaround
 
-I used [Tashman - Out-of-sample tests of forecasting accuracy (2000)](https://www.sciencedirect.com/science/article/pii/S0169207000000650) to ground rolling out-of-sample validation methodology. I used [Basel Committee - Revised market-risk framework (2016)](https://www.bis.org/press/p160114.htm) to ground stress, expected-shortfall, and liquidity-horizon context.
+Adaptive models still need non-negotiable boundaries. I let the system learn how to respond to a changing regime, but I do not let it learn how much capital it may risk. Authority is earned through out-of-sample behavior, stressed execution, observable limits, and staged exposure.
 
-## Sources and external context
+## External foundations
 
-I used independent methodology and market evidence to shape the work. The resume link above is included only to establish the employment timeline.
+These sources supplied the primary forecast-validation and market-risk methodology. My resume is linked only for employment chronology.
 
-| Source | How it informed my work | Timing |
-|---|---|---|
-| [Tashman - Out-of-sample tests of forecasting accuracy (2000)](https://www.sciencedirect.com/science/article/pii/S0169207000000650) | I used it to ground rolling out-of-sample validation methodology. | — |
-| [Basel Committee - Revised market-risk framework (2016)](https://www.bis.org/press/p160114.htm) | I used it to ground stress, expected-shortfall, and liquidity-horizon context. | — |
+| Source | How I applied it |
+|---|---|
+| [Tashman — Out-of-sample tests of forecasting accuracy (2000)](https://www.sciencedirect.com/science/article/pii/S0169207000000650) | I used its rolling out-of-sample principles to avoid validating the redesign only on the known failure period. |
+| [Basel Committee — Revised market-risk framework (2016)](https://www.bis.org/press/p160114.htm) | I used its expected-shortfall, stress, and liquidity-horizon context for risk gates and tranche decisions. |

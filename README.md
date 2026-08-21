@@ -2,6 +2,11 @@
 
 Role-targeted resume for investment research, private and growth investing, portfolio strategy, and capital allocation.
 
+## Profile
+
+- Email: [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu)
+- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+
 ## Resume formats
 
 - [View the PDF](./shivam-singh-investments.pdf)
@@ -25,7 +30,13 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 
 ## Project interview stories
 
-Stories are grouped by their primary resume experience in reverse chronological order. Each project includes resume-ready impact, interview framing, decisions, metrics, and a link to the source page.
+Stories are grouped by their primary resume experience in reverse chronological order. Each file is an externally grounded interview case reconstruction: independent methodology, regulatory, and market sources support the content, while the resume is used only for work dates. The files do not claim independently verified engagement results.
+
+### Amazon Web Services (AWS)
+
+**Principal, Investment Analysis and Portfolio Strategy** | July 2024 - Present
+
+- [AI FinTech portfolio: security value creation](./projects/ai-fintech-portfolio-security-value-creation.md) - operating diligence, technical-risk remediation, compliance velocity, and portfolio value creation
 
 ### Rakuten Group, Inc.
 
@@ -37,12 +48,10 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 **Vice President, Institutional Portfolio Analytics** | July 2016 - December 2019
 
-- [Emerging-markets quant fund: regime recovery](./projects/emerging-markets-quant-fund-regime-recovery.md) - portfolio diagnosis, downside control, and recovery thesis
 - [Trading algorithm: regime-aware turnaround](./projects/trading-algorithm-regime-aware-turnaround.md) - performance attribution and systematic-risk remediation
-- [Sovereign capital: low-latency performance pricing](./projects/sovereign-capital-low-latency-performance-pricing.md) - investment economics, incentives, and performance governance
-- [Oman sovereign wealth: portfolio and fee strategy](./projects/oman-sovereign-wealth-portfolio-fee-strategy.md) - mandate design, allocation strategy, and stakeholder alignment
 
-## Profile
+### McKinsey & Company
 
-- Email: [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu)
-- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+**Associate, Investor Due Diligence** | 2014 - 2018
+
+- [Retail pricing: elasticity-led investment thesis](./projects/retail-pricing-investment-thesis-elasticity.md) - causal pricing analysis, forecast validation, downside cases, and quantified revenue opportunity

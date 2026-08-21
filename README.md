@@ -42,6 +42,12 @@ Stories are grouped by their primary resume experience in reverse chronological 
 - [Sovereign capital: low-latency performance pricing](./projects/sovereign-capital-low-latency-performance-pricing.md) - investment economics, incentives, and performance governance
 - [Oman sovereign wealth: portfolio and fee strategy](./projects/oman-sovereign-wealth-portfolio-fee-strategy.md) - mandate design, allocation strategy, and stakeholder alignment
 
+### McKinsey & Company
+
+**Associate, Investor Due Diligence** | 2014 - 2018
+
+- [Retail pricing: elasticity-led investment thesis](./projects/retail-pricing-investment-thesis-elasticity.md) - causal pricing analysis, forecast validation, downside cases, and quantified revenue opportunity
+
 ## Profile
 
 - Email: [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu)

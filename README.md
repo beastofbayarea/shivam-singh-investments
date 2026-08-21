@@ -37,10 +37,7 @@ Stories are grouped by their primary resume experience in reverse chronological 
 
 **Vice President, Institutional Portfolio Analytics** | July 2016 - December 2019
 
-- [Emerging-markets quant fund: regime recovery](./projects/emerging-markets-quant-fund-regime-recovery.md) - portfolio diagnosis, downside control, and recovery thesis
 - [Trading algorithm: regime-aware turnaround](./projects/trading-algorithm-regime-aware-turnaround.md) - performance attribution and systematic-risk remediation
-- [Sovereign capital: low-latency performance pricing](./projects/sovereign-capital-low-latency-performance-pricing.md) - investment economics, incentives, and performance governance
-- [Oman sovereign wealth: portfolio and fee strategy](./projects/oman-sovereign-wealth-portfolio-fee-strategy.md) - mandate design, allocation strategy, and stakeholder alignment
 
 ## Profile
 

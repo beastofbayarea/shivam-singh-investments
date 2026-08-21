@@ -16,6 +16,10 @@ Use the PDF for review and sharing. Use the DOCX for editable, ATS-friendly appl
 - Portfolio monitoring and downside analysis
 - Investment committee support and capital allocation
 
+## Selected work sample
+
+- [Agentic AI, FinTech, and inference-infrastructure theses and deal sheet](./work-samples/agentic-ai-fintech-and-inference-infrastructure-investment-theses-and-deal-sheet.pdf) - sector theses, diligence experience, and transaction impact
+
 ## Profile
 
 [LinkedIn](https://www.linkedin.com/in/beastofbayarea)

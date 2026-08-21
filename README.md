@@ -2,6 +2,11 @@
 
 Role-targeted resume for investment research, private and growth investing, portfolio strategy, and capital allocation.
 
+## Profile
+
+- Email: [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu)
+- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)
+
 ## Resume formats
 
 - [View the PDF](./shivam-singh-investments.pdf)
@@ -50,8 +55,3 @@ Stories are grouped by their primary resume experience in reverse chronological 
 **Associate, Investor Due Diligence** | 2014 - 2018
 
 - [Retail pricing: elasticity-led investment thesis](./projects/retail-pricing-investment-thesis-elasticity.md) - causal pricing analysis, forecast validation, downside cases, and quantified revenue opportunity
-
-## Profile
-
-- Email: [shiv-investments@umich.edu](mailto:shiv-investments@umich.edu)
-- [LinkedIn](https://www.linkedin.com/in/beastofbayarea)

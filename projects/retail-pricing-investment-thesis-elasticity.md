@@ -1,79 +1,66 @@
-# Finding Investable Pricing Power Inside a Retail Portfolio
+# Finding investable pricing power inside a retail portfolio
 
-I led the pricing analysis for a retail investment decision. I had identified that the retailer needed to know which customers would accept a price change, where they would switch, and whether the opportunity could survive real competition. I worked with merchants, pricing and analytics teams, finance leaders, client executives, and the investment decision makers.
+## Underwriting conclusion
 
-## The conclusion, stated narrowly
+I identified a modeled $50 million revenue opportunity and reduced the decision cycle from six weeks to under one. The $50 million was neither booked revenue nor a company-wide pricing-power claim. It was the sum of segment-level opportunities whose customer behavior, competitive boundary, downside, owner, and rollout gate were explicit.
 
-I identified a modeled $50 million revenue opportunity and reduced the analytical cycle from six weeks to less than one. The $50 million was an evidence-weighted opportunity under stated assumptions—not booked revenue, profit, or a promise that every recommended change would be implemented.
+At McKinsey, I led this analysis across merchants, pricing/analytics, finance, client executives, and investment decision-makers. The task was to show where pricing power existed, where volume would migrate, and which value deserved no credit until a live test.
 
-The work was an investment-underwriting intervention, not a pricing dashboard. I translated millions of observed customer and competitor decisions into segment-level elasticity, downside cases, rollout gates, and a capital-allocation view that showed where pricing power was defensible, where volume would migrate, and where the committee should assign no value until a live test proved it.
+## Portfolio averages were economically useless
 
-That distinction shaped the work. The investment committee needed to know which value was observed, which was estimated, which depended on execution, and what result would invalidate the thesis.
+Customers encounter a product, channel, promotion, competitor, and alternative—not an average elasticity.
 
-## Why one elasticity number would have been wrong
+I segmented the portfolio by customer mission, product role, channel behavior, competitive visibility, and observed substitution:
 
-Customers did not experience a portfolio average. They saw a product, a price, a channel, a promotion, and an alternative at a particular moment. Contemporaneous McKinsey research on retail pricing reinforced the need to account for price perception, segment, channel transparency, competitor response, and switching.
+- visible products that anchor price perception;
+- differentiated products with defensible room;
+- traffic/basket anchors whose direct increase could damage other sales;
+- substitutable products where competitors set the ceiling.
 
-I divided the portfolio by customer mission, product role, channel behavior, competitive visibility, and observed substitution. That produced economically different groups:
+Only segments with a reason to retain demand entered the value case. This converted “pricing sophistication” into a location-specific investment thesis.
 
-- visible products that shaped the retailer's overall price image;
-- differentiated products with room to move;
-- traffic or basket anchors where a price increase could damage other sales; and
-- highly substitutable products where the competitor, not the model, set the boundary.
+Contemporaneous McKinsey work on [pricing fashion with science](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/pricing-fashion-with-science) and [the pricing renaissance](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-pricing-renaissance-new-ways-to-reduce-risk-and-unlock-value) supplied market context around granular response, switching, transparency, and execution risk.
 
-The thesis valued pricing power only where the retailer had a defensible reason for it.
+## Causal evidence remained a range
 
-## How I tried to identify cause rather than coincidence
+Historical price, promotion, seasonality, assortment, stock, and competitor action moved together. I used regression to estimate demand response and difference-in-differences to compare treated and comparison change.
 
-Historical sales alone could not tell me what a new price would do. Price, promotion, seasonality, assortment, stock availability, and competitor action moved together. I used regression to estimate demand response, then difference-in-differences to compare changes in treated and comparison groups.
+Four safeguards mattered:
 
-The design had four safeguards:
+1. inspect pre-treatment paths for the parallel-trends requirement;
+2. isolate stockouts, promotions, assortment changes, and shocks;
+3. test alternative timing, segment, and competitor-response assumptions;
+4. retain a downside range instead of a preferred point estimate.
 
-1. I checked whether treatment and comparison groups followed similar paths before the change—the parallel-trends requirement.
-2. I excluded or separately modeled periods distorted by stock-outs, major promotions, assortment changes, and unusual events.
-3. I tested sensitivity to treatment timing, segment definition, and competitor response.
-4. I retained a downside range instead of turning one preferred coefficient into a point forecast.
+The World Bank’s discussion of [difference-in-differences assumptions](https://blogs.worldbank.org/en/impactevaluations/often-unspoken-assumptions-behind-difference-difference-estimator-practice) informed the counterfactual discipline.
 
-A later retail field study found that observational scanner-price variation did not reproduce experimental elasticities, including in a difference-in-differences design. That research post-dates this project, so it did not guide the original work. It does sharpen how I describe the result now: the design improved causal credibility, but it did not make non-randomized pricing evidence equivalent to a controlled experiment.
+Later research found that observational scanner-price variation can fail to reproduce experimental elasticities even under DiD. That paper postdates the work and did not guide it, but it correctly limits the current claim: stronger observational identification is not the same as random assignment.
 
-## Hindcasting was the model's admission test
+## Hindcasting was admission, not decoration
 
-I ran the model over earlier decision windows and compared its forecasts with outcomes that were already known but withheld from estimation. This rolling out-of-sample approach tested whether the method traveled across time rather than merely explaining the sample used to build it.
+I ran the method across earlier decision windows, estimating on prior data and testing withheld outcomes. This rolling out-of-sample design checked temporal portability instead of in-sample explanation.
 
-Across the broader diligence work, key operating assumptions reached approximately 95% hindcast accuracy. I kept forecast error in the downside case. A good historical fit increased confidence in the range; it did not remove implementation, competitive, or customer risk.
+Key operating assumptions in the broader diligence reached roughly 95% hindcast accuracy. Forecast error remained in the downside. The [Tashman paper on out-of-sample testing](https://doi.org/10.1016/S0169-2070(00)00065-0) supports this rolling evaluation logic.
 
-## The investment memo was built as a bridge from evidence to action
+A model could pass hindcast and still fail under a competitor move, implementation error, or customer response outside historical range. The gate bounded uncertainty; it did not remove it.
 
-For each pricing lever, the committee saw:
+## The investment memo linked evidence to capital
 
-- the customer and product segment;
-- the observed evidence and estimated elasticity range;
-- the proposed move and implementation sequence;
-- expected revenue effect and volume downside;
-- competitor and substitution sensitivity;
-- operational owner; and
-- a stop or rollback signal.
+For each lever, the committee saw:
 
-Merchants could challenge commercial assumptions, analytics could challenge identification, finance could reconcile the value bridge, and executives could choose how much uncertainty to fund. That shared artifact also prevented the faster analytical cycle from becoming a less governed cycle.
+**segment → evidence → elasticity range → proposed move → volume downside → competitor/substitution sensitivity → owner → stop signal**
 
-## Measurement record
+That artifact allowed merchants to challenge commercial logic, analysts to challenge identification, finance to reconcile the bridge, and executives to choose how much uncertainty to fund. Faster analysis did not mean weaker governance.
 
-| Decision measure | Baseline | Target | Result | How it was measured |
-|---|---:|---:|---:|---|
-| Analytical cycle time | 6 weeks | Under 1 week | Under 1 week | Calendar time from scoped question to decision-ready analysis |
-| Modeled revenue opportunity | No quantified portfolio opportunity | Identify evidence-backed value with downside visible | $50 million | Sum of segment-level modeled revenue effects under the base assumptions |
-| Out-of-sample performance | No common hindcast gate | Decision-useful historical performance; no numeric target retained | About 95% on key operating assumptions across the broader diligence | Forecast-to-actual comparison on withheld historical windows |
-| Realized revenue | Not established in the retained record | Measure during staged rollout | Not claimed | Would require transaction-level rollout results and matched counterfactuals |
+## Decision record
 
-## What I would say if challenged
+| Investment measure | Baseline → target → result | Method |
+|---|---|---|
+| Cycle time | 6 weeks → <1 week → <1 week | Scoped question to decision-ready memo; >83.3% lower |
+| Modeled opportunity | no portfolio value → evidence-backed/downside-visible → $50M | Segment-level modeled revenue under base assumptions |
+| Out-of-sample behavior | no common gate → decision-useful → ~95% on key broader-diligence assumptions | Forecast vs withheld historical outcomes |
+| Realized revenue | absent → staged rollout measurement → not retained/not claimed | Transaction results with matched counterfactuals |
 
-The strongest claim is that I made pricing power investable: granular enough to locate, tested enough to bound, fast enough to use, and explicit enough to stop. The work did not prove a company-wide trait and did not convert a modeled opportunity into realized revenue. Its value was a decision system that showed where evidence ended and execution began.
+I owned segmentation, causal design, hindcast gate, downside model, value bridge, operating-owner map, and committee narrative. Merchants owned category decisions; analytics owned estimation; finance owned realization; executives owned capital.
 
-### Method and market sources
-
-- [McKinsey, “Pricing fashion with science” (2014)](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/pricing-fashion-with-science) — contemporaneous link between granular elasticity and retail price decisions.
-- [McKinsey, “The pricing renaissance” (2015)](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-pricing-renaissance-new-ways-to-reduce-risk-and-unlock-value) — contemporaneous treatment of switching, segment response, transparency, and risk.
-- [World Bank, assumptions behind difference-in-differences (2013)](https://blogs.worldbank.org/en/impactevaluations/often-unspoken-assumptions-behind-difference-difference-estimator-practice) — parallel-trends and counterfactual discipline.
-- [Tashman, “Out-of-sample tests of forecasting accuracy” (2000)](https://doi.org/10.1016/S0169-2070(00)00065-0) — rolling-origin and out-of-sample forecast evaluation.
-- [Bray, Sanders, and Stamatopoulos, “Observational Price Variation in Scanner Data Does Not Reproduce Experimental Price Elasticities”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899765) — later evidence used only to qualify the causal limits of observational pricing work.
-- [Role chronology](https://github.com/beastofbayarea/shivam-singh-investments/blob/main/shivam-singh-investments.pdf) — establishes my McKinsey work period from July 2014 to June 2016.
+The investment contribution was not a better dashboard. I made pricing power locatable, challengeable, and stoppable—strong enough to influence valuation without pretending a modeled opportunity had already been earned.

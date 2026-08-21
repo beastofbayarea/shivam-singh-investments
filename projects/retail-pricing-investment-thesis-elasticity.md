@@ -4,7 +4,7 @@
 
 I identified a modeled $50 million revenue opportunity and reduced the decision cycle from six weeks to under one. The $50 million was neither booked revenue nor a company-wide pricing-power claim. It was the sum of segment-level opportunities whose customer behavior, competitive boundary, downside, owner, and rollout gate were explicit.
 
-At McKinsey, I led this analysis across merchants, pricing/analytics, finance, client executives, and investment decision-makers. The task was to show where pricing power existed, where volume would migrate, and which value deserved no credit until a live test.
+At McKinsey, I made the pricing-power analysis decision-ready across merchants, Pricing/Analytics, Finance, client executives, and investment decision-makers. The task was to locate power, predict substitution, and give no valuation credit before a live test.
 
 ## Portfolio averages were economically useless
 
@@ -52,7 +52,7 @@ For each lever, the committee saw:
 
 That artifact allowed merchants to challenge commercial logic, analysts to challenge identification, finance to reconcile the bridge, and executives to choose how much uncertainty to fund. Faster analysis did not mean weaker governance.
 
-## Decision record
+## Underwriting outputs
 
 | Investment measure | Baseline → target → result | Method |
 |---|---|---|
@@ -61,6 +61,6 @@ That artifact allowed merchants to challenge commercial logic, analysts to chall
 | Out-of-sample behavior | no common gate → decision-useful → ~95% on key broader-diligence assumptions | Forecast vs withheld historical outcomes |
 | Realized revenue | absent → staged rollout measurement → not retained/not claimed | Transaction results with matched counterfactuals |
 
-I owned segmentation, causal design, hindcast gate, downside model, value bridge, operating-owner map, and committee narrative. Merchants owned category decisions; analytics owned estimation; finance owned realization; executives owned capital.
+Segmentation, causal design, the hindcast admission gate, downside model, value bridge, operating-owner map, and committee narrative were my contributions. Merchants made category decisions; Analytics estimated; Finance realized; executives allocated capital.
 
 The investment contribution was not a better dashboard. I made pricing power locatable, challengeable, and stoppable—strong enough to influence valuation without pretending a modeled opportunity had already been earned.

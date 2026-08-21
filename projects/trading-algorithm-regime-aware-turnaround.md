@@ -2,7 +2,7 @@
 
 The $5 billion mandate lost $150 million in three months. The immediate responsibility was not to defend the model; it was to stop uncontrolled exposure, locate the loss, and define what evidence could earn capital back.
 
-At D. E. Shaw, I led the recovery architecture across Quant Research, Trading, Risk, Compliance, Data Science, Engineering, Investor Relations, and the investment committee.
+At D. E. Shaw, I designed and governed the recovery architecture across Quant Research, Trading, Risk, Compliance, Data Science, Engineering, Investor Relations, and the investment committee.
 
 ## Loss attribution came before model redesign
 
@@ -54,6 +54,6 @@ The $40 million is explicitly an estimate, not booked annual profit. The $200 mi
 
 Monthly retrospective review became continuous monitoring plus weekly cross-functional capital decisions. Investor Relations used the same regime/risk/recovery record translated for clients, so allocator questions exposed missing evidence rather than spawning a separate marketing narrative.
 
-I owned loss decomposition, recovery architecture, staged authority, shared telemetry, capital gates, committee decisions, and the interface to investor evidence. Quant teams owned models; Trading owned execution; Risk/Compliance owned limits; Engineering owned systems; Investor Relations owned client dialogue.
+Loss decomposition, staged authority, shared telemetry, capital gates, committee decisions, and the interface to investor evidence were the responsibilities I carried. Quant teams controlled models; Trading execution; Risk/Compliance limits; Engineering systems; Investor Relations client dialogue.
 
 The rule I retained: an adaptive model may interpret the regime, but it cannot decide how much institutional capital it is permitted to risk. Authority returns only when signal, execution, liquidity, and controls agree in unseen data and live trading.

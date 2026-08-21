@@ -2,7 +2,7 @@
 
 Security was suppressing portfolio value before it produced a breach.
 
-Bank diligence was slowing enterprise sales, inconsistent safeguards extended compliance work, insurance costs were rising, and one avoidable failure could damage multiple companies. I led the value-creation program across founders, product/security, compliance, bank customers, insurers, and the investment team.
+Bank diligence was slowing enterprise sales, inconsistent safeguards extended compliance work, insurance costs were rising, and one avoidable failure could damage multiple companies. I took portfolio-level responsibility for the value-creation program across founders, Product/Security, Compliance, bank customers, insurers, and the investment team.
 
 The mandate was not to install the same checklist everywhere. It was to connect each material loss scenario to a usable product control, production evidence, a durable owner, and an economic consequence.
 
@@ -58,6 +58,6 @@ This also resolved a commercial inefficiency. Engineering, compliance, insurance
 
 No breach was recorded during the period. I do not claim the program prevented one. Likewise, security alone did not cause every adoption, ROI, or retention improvement. The defensible investment conclusion is that control evidence, readiness time, insurance economics, adoption, and retention improved together under the new operating system.
 
-I owned the portfolio risk language, company-specific gate design, architecture/value trade-offs, production-proof requirement, operating handoff, and investment reporting. Founders retained product decisions; company security/product teams operated controls; buyers and auditors judged evidence; insurers priced risk.
+The portfolio risk language, company-specific gates, architecture/value choices, production-proof standard, operating handoff, and investment reporting were the levers I controlled. Founders retained product decisions; company Security/Product teams ran controls; buyers/auditors judged evidence; insurers priced risk.
 
 The portable asset was not a checklist. It was an investment method for converting hidden technical risk into observable decisions while keeping the product fast enough—and the proof durable enough—to win regulated customers.

@@ -1,5 +1,15 @@
 # Shivam Singh — Investment Analysis & Portfolio Strategy
 
+## Tell me about yourself
+
+**Q: Tell me about yourself / walk me through your background.**
+
+**A:** I am an investment and portfolio-strategy professional focused on situations where attractive upside depends on difficult operating, technical, or regulatory questions. I began at McKinsey in investor and commercial diligence, where I learned to reduce broad market stories to testable drivers such as customer behavior, pricing power, unit economics, competition, and execution capacity.
+
+At D. E. Shaw, I worked directly with portfolio analytics and investment systems. One defining experience was the turnaround of a $5 billion emerging-markets mandate after a $150 million loss. That work combined loss attribution, regime analysis, execution, deterministic risk limits, staged capital, and investor evidence, and it shaped how I think about earning conviction back after a thesis breaks. During my MBA role at Rakuten, I conducted investment diligence, including a forensic review of Nice Tuan that separated what was knowable at entry from what later failure revealed. At AWS, my portfolio work has included AI FinTech value creation, where security and compliance became shared constraints on bank adoption, insurance economics, retention, and reported AI returns.
+
+My approach is to choose the smallest unit in which the thesis must be true, define the evidence that would disprove it, and connect valuation to the operating work required after investment. I am most effective where market, financial, technical, risk, and management evidence need to become one capital decision—and where follow-on capital must be governed by the same variables that justified entry.
+
 My investment work is built around a simple distinction: uncertainty cannot be eliminated, but it can be made governable.
 
 That means choosing the right unit of underwriting, writing the disconfirming evidence before capital is committed, pricing scenarios rather than headlines, and making post-investment work part of the original thesis.

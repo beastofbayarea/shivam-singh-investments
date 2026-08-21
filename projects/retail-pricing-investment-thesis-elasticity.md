@@ -6,6 +6,8 @@ I led the pricing analysis for a retail investment decision. I had identified th
 
 I identified a modeled $50 million revenue opportunity and reduced the analytical cycle from six weeks to less than one. The $50 million was an evidence-weighted opportunity under stated assumptions—not booked revenue, profit, or a promise that every recommended change would be implemented.
 
+The work was an investment-underwriting intervention, not a pricing dashboard. I owned the translation from millions of observed customer and competitor decisions into segment-level elasticity, downside cases, rollout gates, and a capital-allocation view that showed where pricing power was defensible, where volume would migrate, and where the committee should assign no value until a live test proved it.
+
 That distinction shaped the work. The investment committee needed to know which value was observed, which was estimated, which depended on execution, and what result would invalidate the thesis.
 
 ## Why one elasticity number would have been wrong

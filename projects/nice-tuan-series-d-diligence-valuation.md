@@ -2,6 +2,8 @@
 
 I led a post-investment review of Nice Tuan for an investment audience. I wanted to understand how a grocery service could look attractive to mass-market shoppers and investors while its local operations remained fragile. The people in the decision system were customers, community sellers, suppliers, delivery operators, company leaders, regulators, and investors.
 
+My role was to reconstruct the capital decision without hindsight theater. I separated what a committee could have known at the time from what the later collapse revealed, then converted a headline-growth story into city-cohort economics, liquidity exposure, conduct risk, replication gates, and an explicit answer on whether another dollar should follow the original round.
+
 This was a 2023 diligence exercise completed during my Rakuten experience, not participation in Nice Tuan's financing or management. My deliverable was a forensic investment case: rebuild what an investor could reasonably have known, identify the assumptions that should have controlled valuation, and turn the failure into a better monitoring design.
 
 ## The public record I would have put in front of the committee

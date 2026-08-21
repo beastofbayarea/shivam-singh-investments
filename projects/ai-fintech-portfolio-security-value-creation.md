@@ -4,6 +4,8 @@ I led a security value-creation project for a group of AI FinTech companies. I h
 
 The investment problem was larger than preventing an incident. Weak security evidence was slowing enterprise sales, extending compliance work, raising insurance cost, and leaving portfolio value exposed to a single avoidable failure. I therefore treated security as an operating and commercial system rather than a collection of technical fixes.
 
+I owned a portfolio-level value plan that had to work simultaneously in product architecture, regulated-bank diligence, audit evidence, cyber-insurance renewal, customer retention, and founder operating cadence. The scale was organizational as much as technical: create one investment-grade standard across multiple companies while preserving each product's latency, data, and deployment constraints.
+
 ## The portfolio thesis I put into operation
 
 I created a common risk language, then refused to force every company into the same architecture. NIST Cybersecurity Framework 2.0 gave the portfolio six outcome areas—govern, identify, protect, detect, respond, and recover. NIST's Generative AI Profile added the risks that ordinary cloud controls did not cover well: sensitive-data disclosure, fabricated output, harmful bias, information integrity, model misuse, and unclear human responsibility.

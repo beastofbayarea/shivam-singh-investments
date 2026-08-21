@@ -8,6 +8,8 @@ The mandate managed $5 billion and had lost $150 million in three months. The im
 
 The model had been trained largely on a decade in which mean reversion was a useful pattern. It then met a more persistent regime shaped by inflation, sanctions, elections, geopolitical shocks, and thinner liquidity. A monthly review combined every failure into one P&L number.
 
+This was a capital-governance turnaround after a $150 million loss, not a model-tuning exercise. I owned the recovery architecture that determined when the strategy could trade, how much capital it could regain, which risks remained outside the model, and what evidence Risk, Trading, Compliance, investors, and the investment committee would all use to release the next tranche.
+
 I replaced that view with trade-level attribution built from model decisions, market data, FIX execution logs, slippage, exposures, limit events, and a dated macro-event record. The analysis separated three possible losses:
 
 `investment loss = signal selection error + position-sizing error + execution shortfall`
